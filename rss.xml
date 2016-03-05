@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Theodore Bouloukos]]></title>
+        <description><![CDATA[Theodore Bouloukos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 19:45:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New York-based actor whose performance work encompasses principal roles in independent narrative cinema, premiering at Sundance, SXSW, Rotterdam, Berlin, Tribeca, Strasbourg, Rio de Janeiro, Copenhagen, Vienna, Sarasota, Moscow, BAMcinemaFest, and the Museum of Modern Art, among some of the most important film festivals and venues around the world; and project collaborations with numerous established visual artists working in video, voice, painting, sculpture, photography, live performance and tableaux vivants, which have been internationally exhibited at museums, galleries and festivals, including the Venice Biennale, Sundance New Frontier, Documenta, Art Basel Miami, and Performa, among myriad other art-world showcases and events.</p>]]></description>
+            <link>undefinede5ab1ad5-9732-4ea5-8c35-27f362f96877/index.html</link>
+            <guid isPermaLink="false">e5ab1ad5-9732-4ea5-8c35-27f362f96877</guid>
+            <pubDate>Sat, 05 Mar 2016 19:45:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
