@@ -1,20 +1,4 @@
-name: Theodore Bouloukos
-favicon: null
-layout_spectrum: 0.20496933395043015
 typography_spectrum: 0.3325052985455841
-title: SAG-AFTRA
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,4 +10,20 @@ color:
   lightness: 0.7660393309779465
   saturation: 0.04695935710333288
   rhythmicContrast: 0.15459455852396786
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20496933395043015
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Theodore Bouloukos
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SAG-AFTRA
 purpose: []
